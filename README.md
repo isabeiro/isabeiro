@@ -27,7 +27,3 @@
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeiro&langs_count=6&theme=nightowl&layout=compact" alt="isabeiro :: TopLangs" />
  </a>
 </p>
-
-##
-
-![Snake animation](https://github.com/isabeiro/isabeiro/blob/output/github-contribution-grid-snake.svg)
