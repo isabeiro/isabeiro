@@ -23,8 +23,8 @@
 ** **
 <p>
   <a href="https://github.com/isabeiro">
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=isabeiro&show_icons=true&theme=nightowl" alt="isabeiro :: Profile Stats" />
-    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeiro&langs_count=6&theme=nightowl&layout=compact" alt="isabeiro :: TopLangs" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=isabeiro&show_icons=true&theme=nightowl" alt="isabeiro :: Profile Stats" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeiro&langs_count=6&theme=nightowl&layout=compact" alt="isabeiro :: TopLangs" />
  </a>
 </p>
 
