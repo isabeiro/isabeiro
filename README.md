@@ -1,7 +1,6 @@
 ### *Hi, my name is Isabela Ribeiro, I'm a junior JS developer!*
 
 - 🔭 I’m currently looking for a job opportunity
-- 🌱 I’m currently learning Angular.js
 - ⚡ Fun fact: I'm a Civil Engineer who decided to change my career and my life
 
 <div style="display: inline_block"><br>
